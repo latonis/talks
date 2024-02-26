@@ -6,7 +6,7 @@ This is a table of contents for the presentations, talks, or podcasts I've given
 | Event  | Title  | Presentation |
 |---|---|---|
 | MongoDB User Group: Chicago  | Detection-as-Code with MongoDB Change Streams | [MongoDB-and-DaC.pdf](/assets/MongoDB-and-DaC.pdf) |
-| FutureCon Indianpolis  | Git Em’: Threat Actors and the usage of Git as a Delivery Mechanism   | |
+| FutureCon Indianpolis  | Git Em’: Threat Actors and the usage of Git as a Delivery Mechanism   | [git-em.pdf](/assets/git-em.pdf)|
 
 ## Podcasts
 
