@@ -7,6 +7,9 @@ This is a table of contents for the presentations, talks, or podcasts I've given
 |---|---|---|
 | MongoDB User Group: Chicago  | Detection-as-Code with MongoDB Change Streams | [MongoDB-and-DaC.pdf](/assets/MongoDB-and-DaC.pdf) |
 | FutureCon Indianpolis  | Git Em’: Threat Actors and the usage of Git as a Delivery Mechanism   | [git-em.pdf](/assets/git-em.pdf)|
+| SANS DFIR Summit | Leveling Up Ghidra: Learn Ghidra Plugins with a Game Boy Game   | [gba-ghidra.pdf](/assets/gba-ghidra.pdf)|
+| BSides Colorado Springs | Open Source Software: Not as Simple as you may Think | [oss.pdf](/assets/oss.pdf)|
+
 
 ## Podcasts
 
